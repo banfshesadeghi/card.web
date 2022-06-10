@@ -1,0 +1,46 @@
+.body {
+    background-color: rgb(75, 72, 72);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+    box-sizing: border-box;
+    width: 300px;
+    height: 320px;
+    background-color: rgb(106, 104, 104);
+    margin: auto;
+    margin-top: 60px;
+    padding: 15px 0;
+    box-shadow: 0 0 15px rgb(21, 21, 22);
+}
+
+.logo {
+    width: 100px;
+    display: block;
+    margin: auto;
+    border: 3px dotted rgb(40, 38, 49);
+    border-radius: 4%;
+}
+
+.title {
+    width: 140px;
+    margin: auto;
+    font-size: 15px;
+    border-bottom: 5px solid rgb(74, 72, 72);
+    color: #030303;
+}
+
+.desc {
+    text-align: center;
+}
+
+.socilas {
+    height: 50px;
+    background-color: black;
+    text-align: center;
+}
+
+.socilas img {
+    width: 35px;
+    margin: 10px;
+}
